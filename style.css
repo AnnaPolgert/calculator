@@ -36,7 +36,7 @@ body {
    font-size: 40px;
    border: none;
    opacity: 0.8;
-   outline: none;
+   cursor: pointer;
 }
 
 .calc-button:hover {
